@@ -11,7 +11,7 @@ GEM
       ruby2_keywords (~> 0.0.1)
     octokit (3.0.0)
       sawyer (~> 0.5.3)
-    rack (3.0.9.1)
+    rack (3.0.10)
     rack-protection (4.0.0)
       base64 (>= 0.1.0)
       rack (>= 3.0.0, < 4)
