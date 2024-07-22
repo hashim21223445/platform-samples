@@ -9,7 +9,7 @@
   "dependencies": {
     "@octokit/rest": "^20.1.1",
     "chalk": "^3.0.0",
-    "commander": "^4.1.0",
+    "commander": "^4.1.1",
     "dotenv": "^8.6.0",
     "inquirer": "^7.0.4",
     "lodash": "^4.17.21",
