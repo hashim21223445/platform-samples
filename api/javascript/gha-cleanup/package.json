@@ -11,7 +11,7 @@
     "chalk": "^3.0.0",
     "commander": "^4.1.1",
     "dotenv": "^8.2.0",
-    "inquirer": "^7.3.3",
+    "inquirer": "^12.2.0",
     "lodash": "^4.17.21",
     "moment": "^2.30.1",
     "octokit": "^3.2.1",
