@@ -12,6 +12,6 @@
   "author": "bryancross@github.com",
   "license": "ISC",
   "dependencies": {
-    "commander": "^12.1.0"
+    "commander": "^14.0.0"
   }
 }
