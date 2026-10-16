@@ -1,0 +1,1 @@
+Integrated releases, updates, and vulnerability scanning programs; topic evaluation; automated, self-operating technical processes around the clock, down to the second and minute; and a continuous distribution, preparation, and distribution mechanism for the organization and its affiliated institutions.
